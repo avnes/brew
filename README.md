@@ -27,7 +27,8 @@ brew install python@3.9
 brew install saml2aws
 brew install starship
 brew install tree
-brew install adoptopenjdk11
-brew install meld
-brew install powershell
+
+brew install --cask adoptopenjdk11
+brew install --cask meld
+brew install --cask powershell
 ```
